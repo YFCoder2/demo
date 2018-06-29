@@ -12,7 +12,7 @@ public class Main {
 		Thread.sleep(3000);
 
 
-		String result = data.getRequest();
+		String result = data.getRequest(); 
 		System.out.println(result);
 		
 	}
